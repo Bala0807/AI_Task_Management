@@ -1,0 +1,7 @@
+# Ignore large raw and processed data files
+GFG_FINAL.csv
+processed_task_data_W1.csv
+
+# Ignore system/environment files
+.ipynb_checkpoints/
+__pycache__/
